@@ -32,7 +32,9 @@ b.	Build Random Forest classifier to compare model accuracy over the logistic re
 c.	Identify most important features impacting churn (Model evaluation metrics to be used: GINI, AUC, Precision and Recall)
 5.	Use the ‘Prediction Data’ provided to predict churners using the best model identified in step 4
 6.	Calculate lift chart and total monthly revenue saved by targeting top 10-20% of the customers using your best predictive model
-7.	
+### Data:
+![data](https://github.com/AINE-Projects/Project8/blob/main/data_columns.png)
+
 ### Skills to use:
 __1.	Exploratory data analysis__
 
